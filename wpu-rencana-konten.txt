@@ -1,6 +1,9 @@
 Java
   Framework JavaScript
-Struktur Data Dasar
+    Angular
+    React
+
 PHP
+  Laravel
 Interview
 Vlogs
