@@ -1,6 +1,9 @@
 Java
   Framework JavaScript
+    View
 Struktur Data Dasar
 PHP
+ Laravel
 Interview
 Vlogs
+Python
