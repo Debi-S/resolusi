@@ -1,6 +1,7 @@
 Java
   Framework JavaScript
-    View
+    Vue
+    React
 Struktur Data Dasar
 PHP
  Laravel
