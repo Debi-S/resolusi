@@ -1,6 +1,10 @@
 Java
   Framework JavaScript
+    Vue
+    React
 Struktur Data Dasar
 PHP
+ Laravel
 Interview
 Vlogs
+Python
